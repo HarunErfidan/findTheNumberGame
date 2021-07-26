@@ -1,0 +1,56 @@
+body,
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(#F8875D, #fff);
+}
+
+.container-main {
+    margin-left: 40%;
+    margin-top: 5rem;
+}
+
+.area {
+    margin-left: 5rem;
+    margin-top: 4rem;
+    
+}
+
+#number {
+    border-radius: 0.5rem;
+    padding-bottom: 0.2rem;
+    padding-top: 0.2rem;
+    border-color: #fff;
+}
+
+#check-button {
+    margin-left: 0.5rem;
+    padding-bottom: 0.2rem;
+    padding-top: 0.2rem;
+    background-color: #0000FF;
+    color: #fff;
+    border-color: #0000FF;
+    border-radius: 0.3rem;
+}
+.img {
+    margin-top: 13rem;
+    padding-left: 2rem;
+
+}
+img {
+    max-width: 20rem;
+}
+
+#result {
+    color: #fff;
+    margin-right: 15rem;
+    margin-top: 5rem;
+}
+
